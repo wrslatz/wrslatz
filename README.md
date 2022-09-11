@@ -1,10 +1,10 @@
-### Hi, I'm Will👋🏻👨🏻‍💻 
+### Hi, I'm Will 👋🏻 👨🏻‍💻 
 
 Pronouns: _he / him / his_
 
 ### :computer: I'm a full stack software engineer focused on developer experience and automation
 - :office: I work at **Capital One** as a **Lead Software Engineer** :keyboard: :computer_mouse:
-- :house_with_garden: I'm based in **Asheville, NC**:mountain:
+- :house_with_garden: I'm based in **Asheville, NC** :mountain:
 - :smile: I spend my free time gaming :video_game:, hiking :national_park:, or playing with my cat :black_cat:
 
 ### :scroll: Experience
