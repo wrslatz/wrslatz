@@ -1,7 +1,5 @@
 ### Hi, I'm Will 👋🏻
 
-Pronouns: _he / him / his_
-
 **I'm a full stack software engineer focused on developer experience and automation** 👨🏻‍💻
 - I'm a Lead Software Engineer at Capital One :computer:
 - I'm based in Asheville, NC working remotely :mountain:
@@ -11,3 +9,5 @@ Pronouns: _he / him / his_
 - I primarily develop full stack TypeScript apps with Nx :unicorn:, Angular, NestJS :cat2:, GraphQL, and Docker :whale:
 - I also enjoy developing  in .NET and Go
 - I'm most interested in learning Rust 🦀
+
+Pronouns: _he / him / his_
