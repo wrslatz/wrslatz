@@ -1,13 +1,13 @@
 # Hi, I'm Will 👋🏻
 
-I'm a Lead Software Engineer in the Open Source Program Office at Capital One focused on developer experience, innersource, and open source :computer: 👨‍💻
+I'm a Lead Software Engineer in the Open Source Program Office at Capital One :computer: 👨‍💻
 
 ## More about me
 
 - I'm based in Asheville, NC working remotely 🏡 ⛰️
+- I'm passionate about open source, innersource, and developer experience :electron:
 - I spend my free time playing video games, hiking, and playing with my cats 🎮 🏞️ 🐈‍⬛ 🐾
 - My pronouns are _he / him / his_
-- This is my personal account and view expressed here are my own unless otherwise noted
 
 ## Technology I use
 
