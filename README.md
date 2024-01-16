@@ -8,6 +8,7 @@ I'm a Lead Software Engineer in the Open Source Program Office at Capital One :c
 - I'm passionate about open source, innersource, and developer experience :electron:
 - I spend my free time playing video games, hiking, and playing with my cats 🎮 🏞️ 🐈‍⬛ 🐾
 - My pronouns are _he / him / his_
+- Views expressed are my own unless otherwise noted
 
 ## Technology I use
 
