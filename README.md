@@ -10,7 +10,7 @@ I'm a Lead Software Engineer in the Open Source Program Office at Capital One :c
 - My pronouns are _he / him / his_
 - Views expressed are my own unless otherwise noted
 
-## Technology I use
+## Technologies I use
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
