@@ -1,6 +1,6 @@
 # Hi, I'm Will 👋🏻
 
-I'm a Lead Software Engineer in the Open Source Program Office at Capital One :computer: 👨‍💻
+I'm a Senior Lead Software Engineer in the Open Source Program Office at Capital One :computer: 👨‍💻
 
 ## More about me
 
